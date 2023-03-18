@@ -17,4 +17,5 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git synology git clone https://github.com/ykxVK8yL5L/luci-app-synology' >>feeds.conf.default
+git clone https://github.com/ykxVK8yL5L/luci-app-synology package/synology
 
